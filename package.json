@@ -1,0 +1,9 @@
+{
+  "name": "resilient-design-grants",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "wrangler pages deploy . --project-name resilient-design-grants"
+  }
+}
